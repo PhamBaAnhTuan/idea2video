@@ -1,0 +1,14 @@
+.env
+**/.env
+**/node_modules/
+**/.venv/
+__pycache__/
+*.py[cod]
+data/
+vendor/
+apps/renderer/public/jobs/
+apps/renderer/out/
+dist/
+.DS_Store
+.vscode/
+tests/

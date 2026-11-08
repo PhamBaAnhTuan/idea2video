@@ -1,0 +1,10 @@
+fastapi>=0.115.0
+python-multipart>=0.0.9
+uvicorn[standard]>=0.30.0
+pydantic>=2.8.0
+pydantic-settings>=2.4.0
+python-dotenv>=1.0.1
+google-genai>=1.30.0
+vieneu>=3.8.0
+faster-whisper>=1.1.0
+av>=11,<19

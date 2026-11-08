@@ -1,0 +1,6 @@
+# Minimal CPU dependencies for speech-to-subtitle MAI ASR mode.
+# torch is installed separately from the official CPU wheel index by setup.ps1.
+numpy>=1.26
+soundfile>=0.12
+silero-vad>=6.0
+onnxruntime>=1.19

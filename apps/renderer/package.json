@@ -1,0 +1,23 @@
+{
+  "name": "idea2video-renderer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "render": "node render.mjs",
+    "studio": "remotion studio src/index.ts"
+  },
+  "dependencies": {
+    "@remotion/bundler": "^4.0.540",
+    "@remotion/cli": "^4.0.540",
+    "@remotion/renderer": "^4.0.540",
+    "remotion": "^4.0.540",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "typescript": "^5.8.3"
+  }
+}
